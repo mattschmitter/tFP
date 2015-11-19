@@ -1,6 +1,7 @@
 == README
 
-This is the updated readme file. Updated for readme2 - Marco
+This is the updated readme file fixing the merge conflict. Updated for readme2 - Marco
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
